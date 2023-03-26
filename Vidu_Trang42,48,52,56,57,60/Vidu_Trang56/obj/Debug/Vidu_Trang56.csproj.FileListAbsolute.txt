@@ -1,0 +1,11 @@
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\bin\Debug\Vidu_Trang56.exe.config
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\bin\Debug\Vidu_Trang56.exe
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\bin\Debug\Vidu_Trang56.pdb
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.csproj.AssemblyReference.cache
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.csproj.SuggestedBindingRedirects.cache
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.Properties.Resources.resources
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.csproj.GenerateResource.cache
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.csproj.CoreCompileInputs.cache
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.exe
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.pdb
+E:\hoc tap\Phát triển ứng dụng desktop\BàiTập_Chuong1_TongQuanVeLapTrinhGiaoDien_1\Vidu_Trang42\Vidu_Trang56\obj\Debug\Vidu_Trang56.Form1.resources

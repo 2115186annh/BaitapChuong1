@@ -1,0 +1,11 @@
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\bin\Debug\Vidu_Trang35.exe.config
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\bin\Debug\Vidu_Trang35.exe
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\bin\Debug\Vidu_Trang35.pdb
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.csproj.AssemblyReference.cache
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.csproj.SuggestedBindingRedirects.cache
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.frmLinkLabel.resources
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.Properties.Resources.resources
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.csproj.GenerateResource.cache
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.csproj.CoreCompileInputs.cache
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.exe
+E:\hoc tap\Phát triển ứng dụng desktop\Vidu_Trang35\Vidu_Trang35\obj\Debug\Vidu_Trang35.pdb
